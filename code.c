@@ -42,7 +42,7 @@ int main()
         }
         
     }
-    while(digit<6);
+    while(digit<'6');
     //printf("------------------------------------------------------------\n");
     printf("So the total amount is %d\n",sum);
     printf("Thankyou visit again\n");
